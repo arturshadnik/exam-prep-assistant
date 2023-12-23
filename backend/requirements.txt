@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+faiss-cpu
+numpy
+google-cloud-storage
+firebase-admin
+llama_index
+openai
