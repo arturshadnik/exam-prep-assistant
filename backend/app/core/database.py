@@ -1,5 +1,5 @@
 from google.cloud import storage, firestore_v1
-from app.logging import logger
+from app.core.logging import logger
 
 try:
     db = firestore_v1.Client()
